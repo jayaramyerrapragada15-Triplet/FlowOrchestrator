@@ -44,7 +44,7 @@ public final class Main {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   TASK & WORKFLOW ENGINE  --  CLI Edition v1.0");
+        System.out.println("   FlowOrchestrator  --  CLI Edition v1.0");
         System.out.println("==================================================");
 
         Scanner scanner = new Scanner(System.in);

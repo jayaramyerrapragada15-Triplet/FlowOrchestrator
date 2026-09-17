@@ -6,13 +6,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.workflow</groupId>
-    <artifactId>task-workflow-engine</artifactId>
+    <artifactId>FlowOrchestrator</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Task and Workflow Engine</name>
+    <name>FlowOrchestrator</name>
     <description>
-        A CLI-based Task and Workflow Management Engine demonstrating core Java OOP
+        A CLI-based FlowOrchestrator demonstrating core Java OOP
         design, custom exception handling, the Java Collections Framework, the
         Streams API, and file-based persistence.
     </description>

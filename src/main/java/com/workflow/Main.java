@@ -17,7 +17,7 @@ import com.workflow.service.TaskManager;
 import com.workflow.util.FileStorage;
 
 /**
- * Command-line entry point for the Task &amp; Workflow Engine.
+ * Command-line entry point for the Task &amp; FlowOrchestrator.
  * <p>
  * This class owns the interactive read-menu-execute loop, all
  * {@link Scanner}-based input parsing and validation, and CLI-formatted
